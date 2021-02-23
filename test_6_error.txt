@@ -1,0 +1,11 @@
+int main() {
+  
+  int x = 4;
+  int y = 6;
+
+  operation = x % y;
+  operation2 = x & y;
+  operation3 = x $ y;
+
+  x.y = 10;
+}
